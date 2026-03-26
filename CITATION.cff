@@ -1,0 +1,26 @@
+
+## `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+title: "City4Climate DT Framework"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Soares"
+    given-names: "Nuno"
+repository-code: "https://github.com/SEU_UTILIZADOR/city4climate-dt-framework"
+abstract: >
+  Public dissemination repository for the City4Climate Digital Twin Framework,
+  including documentation, analytical models, reusable implementation assets,
+  and reuse guidelines.
+keywords:
+  - digital twin
+  - climate action
+  - smart cities
+  - urban data
+  - interoperability
+  - reuse
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-03-26"
