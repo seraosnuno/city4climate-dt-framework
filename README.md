@@ -4,7 +4,7 @@ Public dissemination repository for the **City4Climate Digital Twin Framework**.
 
 This repository is being prepared to support the open dissemination of the project's digital twin framework, source code, documentation, analytical models, reuse guidelines, and demonstration materials.
 
-At this stage, the repository contains the initial public documentation structure. Source code and implementation assets will be progressively added according to the project schedule and after internal validation of dissemination conditions.
+This repository contains the first public version of the City4Climate Digital Twin framework, including the initial set of implementation assets, technical documentation, and dissemination-oriented materials cleared for public release.
 
 ## Purpose
 
@@ -19,13 +19,14 @@ The repository is intended to:
 
 Current phase:
 
-- repository structure created;
+- repository structure established;
 - governance, open science, and reporting scaffolds in place;
-- implementation content to be added in subsequent milestones.
+- first public version of the Digital Twin framework released;
+- implementation assets, technical documentation, and demonstration materials made available to support reuse.
 
-## Planned public contents
+## Public contents
 
-The repository is expected to host, progressively:
+The repository hosts:
 
 - project overview and use cases;
 - analytical models and their documentation;

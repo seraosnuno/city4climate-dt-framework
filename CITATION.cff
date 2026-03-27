@@ -9,7 +9,7 @@ type: software
 authors:
   - family-names: "Soares"
     given-names: "Nuno"
-repository-code: "https://github.com/SEU_UTILIZADOR/city4climate-dt-framework"
+repository-code: "https://github.com/seraosnuno/city4climate-dt-framework"
 abstract: >
   Public dissemination repository for the City4Climate Digital Twin Framework,
   including documentation, analytical models, reusable implementation assets,

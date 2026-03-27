@@ -2,7 +2,7 @@
 
 ## Objective
 
-The purpose of this repository is to support structured, open, and reusable dissemination of the City4Climate digital twin framework.
+This repository supports the public dissemination of the released first version of the City4Climate Digital Twin framework, within the dissemination perimeter validated for public availability and reuse.
 
 ## Dissemination goals
 

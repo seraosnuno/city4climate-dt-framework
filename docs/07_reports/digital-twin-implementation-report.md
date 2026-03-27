@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-This document is the public scaffold for the Digital Twin Implementation Report associated with the City4Climate project. Its purpose is to describe the implementation-oriented artefacts that support reuse of the digital twin framework, including source code, documentation, configuration guidance, and demonstration references.
+This document is the public Digital Twin Implementation Report associated with the City4Climate project. It describes the implementation-oriented artefacts made available to support reuse of the framework, including source code, documentation, configuration guidance, and demonstration references.
 
 ## 2. Objective of the report
 
