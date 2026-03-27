@@ -1,0 +1,1 @@
+explica variáveis, ficheiros de configuração, credenciais esperadas, endpoints, etc.

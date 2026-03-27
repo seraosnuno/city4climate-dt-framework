@@ -1,0 +1,1 @@
+explica como instalar dependências e preparar ambiente

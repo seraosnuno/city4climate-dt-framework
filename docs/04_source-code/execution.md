@@ -1,0 +1,1 @@
+explica como correr os componentes

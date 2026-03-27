@@ -1,0 +1,1 @@
+explica como o software está organizado
